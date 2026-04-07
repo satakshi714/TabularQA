@@ -36,7 +36,7 @@ An interactive Streamlit app that combines **data visualization + question answe
 
 ## 🔗 Live Demo
 
-👉 [Click here to try the app](YOUR_STREAMLIT_LINK)
+👉 https://tabularapp-qna.streamlit.app/
 
 ---
 
