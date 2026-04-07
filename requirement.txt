@@ -1,6 +1,0 @@
-pandas
-fuzzywuzzy
-python-Levenshtein
-google-generativeai
-openpyxl
-concurrent.futures

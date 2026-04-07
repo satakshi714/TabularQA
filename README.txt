@@ -1,9 +1,45 @@
-Team - TQ25
+# 📊 AI-Powered Tabular QA System
 
-Members :- 
-Pratyush Rai
-Megha Thakur
-Satakshi Agrawal
-Ashvani Patel
+An interactive Streamlit app that combines **data visualization + question answering + AI** to analyze tabular datasets.
 
-Problem Statement: To develop a tabular QA solution that can effectively filter, process and analyze tabular data to provide accurate responses to user queries.
+---
+
+## 🚀 Features
+
+- 📊 Interactive dashboard (charts + KPIs)
+- 🤖 Natural language query system
+- 🧠 AI fallback using Gemini API
+- 📁 Upload CSV/Excel datasets
+- ⚡ Real-time insights
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- Pandas
+- Plotly
+- Streamlit
+- Google Generative AI (Gemini)
+
+---
+
+## 💡 Example Questions
+
+- How many transactions in Yangon?
+- What is the total sales for female customers?
+- What is the highest transaction value?
+- Show electronic accessories sales
+- What is the cost in the recent entry?
+
+---
+
+## 🔗 Live Demo
+
+👉 [Click here to try the app](YOUR_STREAMLIT_LINK)
+
+---
+
+## ⚠️ Note
+
+Add your API key in Streamlit Cloud:
